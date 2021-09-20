@@ -1,0 +1,26 @@
+nav{
+    background-color: rgb(7,178,1);
+}
+
+button{
+    background-color: steelblue;
+}
+
+h6, p, span, .copy{
+    color: rgb(100, 98, 96);
+}
+
+h1{
+    color: rgb(254,147,3); 
+}
+
+
+/* #logo{
+    width: 6vw;
+    height: 8vh;
+} */
+
+footer{
+    margin-top: 25vh;
+    
+}
